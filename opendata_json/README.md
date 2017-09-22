@@ -6,6 +6,6 @@
 
 [google chart參考](https://developers.google.com/chart/)
 
-[!result](img/01.png)
-[!result](img/02.png)
-[!result](img/03.png)
+![result](img/01.png)
+![result](img/02.png)
+![result](img/03.png)
